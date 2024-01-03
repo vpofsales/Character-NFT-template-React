@@ -1,0 +1,7 @@
+.accordion-container {
+  display: flex;
+  position: relative;
+}
+.accordion-container2 {
+  display: contents;
+}
